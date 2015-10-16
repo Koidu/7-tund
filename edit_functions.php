@@ -25,7 +25,7 @@
 		}else{
 			// ei saanud rida andmeid kätte kui sellist id-d ei ole olemas
 			// see rida on kustutatud
-			
+			header("location: table.php");
 			
 			
 		}
